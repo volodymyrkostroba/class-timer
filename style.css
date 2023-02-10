@@ -1,0 +1,32 @@
+body{
+    font-size: 32px;
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),url("https://cdn.pixabay.com/photo/2023/01/10/20/56/nyc-7710506_960_720.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    color: bisque;
+
+    margin: 0;
+    padding: 0;
+
+    font-family: sans-serif;
+}
+
+section{
+    display: flex;
+    
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+
+    background-image: url();
+}
+
+.timer{
+
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
